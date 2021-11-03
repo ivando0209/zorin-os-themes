@@ -1905,7 +1905,7 @@ window.background:not(.solid-csd) > notebook:not(.frame) tab { margin-bottom: 4p
 /************ Nautilus * */
 /*.nautilus-window  {background-color: solid rgba(255, 255, 255, 0.96);}*/
 
-.nautilus-window { background-image: url("/home/ivando/Pictures/Wallpapers/nautilus-window-background.jpg"); }
+.nautilus-window { background-image: url("nautilus-window-background.jpg"); }
 
 .nautilus-window .floating-bar { min-height: 32px; padding: 0; border-radius: 10px 10px 0 0; background-color: white; background-clip: padding-box; }
 
@@ -1916,7 +1916,7 @@ window.background:not(.solid-csd) > notebook:not(.frame) tab { margin-bottom: 4p
 .nautilus-window .floating-bar button { padding: 0; }
 
 /*.nautilus-window .nautilus-list-view { background-color: white; border-radius: 0 0 10px 10px; }*/
-.nautilus-window .nautilus-list-view { background-image:url("/home/ivando/Pictures/Wallpapers/nautilus-window-background.jpg"); border-radius: 0 0 10px 10px; }
+.nautilus-window .nautilus-list-view { background-image:url("nautilus-window-background.jpg"); border-radius: 0 0 10px 10px; }
 
 .nautilus-window .nautilus-list-view treeview.view:not(:hover):not(:active):not(:selected) { background-color: transparent; border-radius: 0; }
 
