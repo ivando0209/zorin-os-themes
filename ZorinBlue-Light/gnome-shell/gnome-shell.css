@@ -110,7 +110,9 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 
 .popup-menu.panel-menu { -boxpointer-gap: 4px; margin-bottom: 1.75em; }
 
-.popup-menu-content { padding: 12px 0; background-color: #f5f7fa; box-shadow: 0 2px 6px rgba(18, 51, 84, 0.2); margin: 4px 4px 0 4px !important; border-radius: 10px; border: none; }
+/*.popup-menu-content { padding: 12px 0; background-color: #f5f7fa; box-shadow: 0 2px 6px rgba(18, 51, 84, 0.2); margin: 4px 4px 0 4px !important; border-radius: 10px; border: none; }*/
+
+.popup-menu-content { padding: 12px 0; background-color: rgba(245, 247, 250, 0.8); box-shadow: 0 2px 6px rgba(18, 51, 84, 0.2); margin: 4px 4px 0 4px !important; border-radius: 10px; border: none; }
 
 .popup-menu-item { spacing: 6px; padding: 6px; transition-duration: 150ms; }
 
